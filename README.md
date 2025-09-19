@@ -1,6 +1,6 @@
-# Hi there, I'm Seckin Keskin! 👋
+# Hi there 👋
 
-A passionate and results-driven **game developer** with a love for creating engaging and innovative gaming experiences. My primary focus is on **Unity** and **C#**, where I enjoy building both 2D and 3D games from concept to completion. I'm fascinated by the intersection of art, technology, and storytelling in game design.
+A **solo developer** passionate about turning ideas into reality, from initial concept to a polished final product. I specialize in **Unity** and **C#**, and I enjoy tackling the full development cycle of a game, including design, programming, art integration, and project management. My goal is to create immersive and unique gaming experiences, one line of code at a time.
 
 ---
 
