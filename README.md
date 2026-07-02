@@ -14,7 +14,7 @@ A **solo developer** passionate about turning ideas into reality, from initial c
 
 ---
 
-- 🔭 I’m currently working on **[Domino King](https://play.google.com/store/apps/details?id=com.seckinkeskin.dominoking)**
+- 🔭 My last work is **[Domino King](https://play.google.com/store/apps/details?id=com.seckinkeskin.dominoking)**
 - ⚡ Fun fact: Pixel art, game desing.
 
 ---
